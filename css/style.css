@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif; /* Police d'écriture */
+  background: rgb(255, 255, 255); /* Couleur du fond */
+  color: rgb(0, 0, 0); /* Couleur du texte */
+  margin: 0; /* Espace extérieur */
+  padding: 0; /*Espace intérieur */
+}
+
+/* Couleur du lien */
+a { 
+    color:rgb(255, 255, 255); 
+}
+
+h1 {
+    color:rgb(100, 172, 255);
+    text-align: center;
+}
+
+p {
+    margin-bottom: 1rem; /* On ajoute un espace en bas de chaque paragraphe */
+}
+
+img {
+    width: 200px;
+    border: 2px solid rgb(255, 60, 0); /* Taille ; Type ; Couleur de la bordure */
+}
+
+#unique {
+    color:rgb(255, 255, 255);
+}
+
+.exemple {
+    color:rgb(255, 255, 255);
+}
